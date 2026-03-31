@@ -13,4 +13,4 @@ CREATE TABLE IF NOT EXISTS `highscore` (
 INSERT INTO `highscore` (`player_name`, `score`) VALUES 
 ('Nguyễn Văn Khoa', 1000),
 ('Sky Warrior', 850),
-('Player One', 500);
+('Player One', 500);chicken_gamechicken_game
