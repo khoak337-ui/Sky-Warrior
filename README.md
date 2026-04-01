@@ -10,7 +10,7 @@
 |:---:|---|:---:|---|:---:|
 | 1 | [Nguyễn Lê Vy] | [3120225178] | Trưởng nhóm - Logic va chạm, UI | [[GitHub](link)](https://github.com/nlv08022007-bot) |
 | 2 | [Họ tên của Khoa] | [3120225027] | Controller, Render Graphics | [GitHub](link) |
-| 3 | [Phạm Ngọc Uyên Nhi] | [3120225111] | Tester, Nội dung game | [[GitHub](link](https://github.com/nhi249007-code)) |
+| 3 | [Phạm Ngọc Uyên Nhi] | [3120225111] | Tester, Nội dung game | https://github.com/nhi249007-code |
 
 ---
 
