@@ -1,4 +1,4 @@
-### 🎓 SKY WARRIOR - Java Space Shooter Game
+### 🎓 SKY WARRIOR: Airplane Shooting Game
 **Bài tập lớn cuối kỳ môn Lập trình Java - Nhóm [Điền số nhóm]**
 
 ---
