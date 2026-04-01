@@ -20,6 +20,7 @@ public class GameController extends KeyAdapter {
     private boolean isGameOver = false;
     private Timer gameLoop;
 
+    
     public GameController(Plane player, GamePanel panel) {
         this.player = player;
         this.gamePanel = panel;
