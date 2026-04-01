@@ -71,7 +71,7 @@ github.com
 Mở Terminal hoặc Git Bash và gõ lệnh sau:
 
 ```bash
-git clone https://github.com/khoak337-ui/Sky-Warrior
+git clone [https://github.com/khoak337-ui/Sky-Warrior]
 
 
 
