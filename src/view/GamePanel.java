@@ -1,7 +1,7 @@
 package view;
 
 import model.*;
-import utils.DBContext; // Đảm bảo bạn đã tạo file DBContext mình đưa ở trên
+import utils.DBContext; 
 import javax.sound.sampled.*;
 import javax.swing.*;
 import java.awt.*;
@@ -16,11 +16,11 @@ public class GamePanel extends JPanel {
     private List<Item> items;
     private boolean isGameOver;
     private int score;
-    private int bestScore = 0; // Biến lưu điểm cao nhất từ SQL
+    private int bestScore = 0; 
     private Image imgBg, imgPlayer, imgEnemy, imgItem;
     private float bgY = 0;
 
-    // Quản lý Clip âm thanh
+    
     private Clip clipShoot, clipExplode, clipItem, clipBgm;
 
     public GamePanel() {
@@ -50,7 +50,7 @@ public class GamePanel extends JPanel {
         imgItem   = new ImageIcon(path + "item.png").getImage();
         imgBg     = new ImageIcon(path + (mt==2?"desert.jpg":mt==3?"ocean.jpg":"jungle.jpg")).getImage();
 
-        // Nạp tất cả âm thanh
+        
         clipShoot = loadSound("shoot.wav");
         clipExplode = loadSound("explosion.wav");
         clipItem = loadSound("item.wav");
@@ -72,7 +72,7 @@ public class GamePanel extends JPanel {
     }
 
     public void render(Plane p, List<Bullet> bl, List<Enemy> en, List<Explosion> ex, List<Item> it, boolean go, int s) {
-        // Kiểm tra khoảnh khắc vừa mới Game Over để lấy Best Score từ MySQL
+        
         if (!this.isGameOver && go) {
             this.bestScore = DBContext.getBestScore();
         }
@@ -85,7 +85,7 @@ public class GamePanel extends JPanel {
         super.paintComponent(g);
         Graphics2D g2 = (Graphics2D) g;
 
-        // --- VẼ NỀN VÀ ĐỐI TƯỢNG ---
+        //  VẼ NỀN VÀ ĐỐI TƯỢNG 
         if (imgBg != null) {
             g2.drawImage(imgBg, 0, (int)bgY, 1000, 750, null);
             g2.drawImage(imgBg, 0, (int)bgY - 750, 1000, 750, null);
@@ -121,7 +121,7 @@ public class GamePanel extends JPanel {
         g2.setFont(new Font("Arial", Font.BOLD, 25));
         g2.drawString("SCORE: " + score, 20, 40);
 
-        // --- BẢNG THÔNG BÁO GAME OVER (TÍCH HỢP SQL) ---
+        //  BẢNG THÔNG BÁO GAME OVER (TÍCH HỢP SQL)
         if (isGameOver) {
             // Lớp phủ mờ
             g2.setColor(new Color(0, 0, 0, 210));
