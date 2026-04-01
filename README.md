@@ -1,4 +1,4 @@
-### 🎓 SKY : Airplane Shooting Game
+### 🎓 SKYFALLS WARRIORS : Airplane Shooting Game
 **Bài tập lớn cuối kỳ môn Lập trình Java - Nhóm [Điền số nhóm]**
 
 ---
