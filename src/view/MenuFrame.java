@@ -14,12 +14,12 @@ public class MenuFrame extends JFrame {
 
     public MenuFrame() {
         setTitle("SKY WARRIORS: ETHEREAL WINGS");
-        setSize(1000, 750); // Tăng không gian hiển thị
+        setSize(1000, 750); 
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
         setResizable(false);
 
-        // Khởi tạo 100 hạt sao cho hiệu ứng Warp Drive
+        
         Random r = new Random();
         for (int i = 0; i < 100; i++) {
             starField.add(new Star(r.nextInt(1000), r.nextInt(750), r.nextInt(3) + 1));
