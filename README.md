@@ -9,7 +9,7 @@
 |:---:|:---|:---:|:---|:---:|
 | 1 | Nguyễn Lê Vy       |[3120225072] | Trưởng nhóm, , Code Logic, Code Controller,Code Model | [GitHub](https://github.com/nlv08022007-bot) |
 | 2 | Nguyễn Phan ANH Khoa| [3120225178] | Setup Git,Database,Hiệu ứng hình ảnh, Âm thanh | [GitHub](https://github.com/khoak337-ui) |
-| 3 | Phạm Ngọc Uyên Nhi| [3120225111] | Developer (View)**: Thiết kế GUI, Vẽ Graphics2D, Hiển thị HUD, Menu & Animation | | [GitHub](https://github.com/nhi249007-code) |
+| 3 | Phạm Ngọc Uyên Nhi| [3120225111] | Developer (View)**: Thiết kế GUI, Vẽ Graphics2D, Hiển thị HUD, Menu & Animation | [GitHub](https://github.com/nhi249007-code) |
 
 ---
 
