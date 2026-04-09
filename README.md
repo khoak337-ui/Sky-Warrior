@@ -8,7 +8,7 @@
 | STT | Họ và Tên | Mã Sinh Viên | Vai trò / Nhiệm vụ | Link GitHub |
 |:---:|:---|:---:|:---|:---:|
 | 1 | Nguyễn Lê Vy       |[3120225072] | Trưởng nhóm, , Code Logic, Code Controller,Code Model | [GitHub](https://github.com/nlv08022007-bot) |
-| 2 | Nguyễn Phan ANH Khoa| [3120225178] | Setup Git,Database,Hiệu ứng hình ảnh, Âm thanh,Code ulits | [GitHub](https://github.com/khoak337-ui) |
+| 2 | Nguyễn Phan Anh Khoa| [3120225178] | Setup Git,Database,Hiệu ứng hình ảnh, Âm thanh,Code ulits | [GitHub](https://github.com/khoak337-ui) |
 | 3 | Phạm Ngọc Uyên Nhi| [3120225111] | Developer (View)**: Thiết kế GUI, Vẽ Graphics2D, Hiển thị HUD, Menu & Animation | [GitHub](https://github.com/nhi249007-code) |
 
 ---
@@ -48,9 +48,9 @@ Mã nguồn được tổ chức chặt chẽ theo mô hình **MVC**:
 ```text
 📦 Sky-Warrior
  ┣ 📂 src
- ┃ ┣ 📂 com.game.model       # Các thực thể: Máy bay, Đạn, Kẻ địch, Boss...
- ┃ ┣ 📂 com.game.view        # Giao diện: Menu, GamePanel, Hiển thị điểm số...
- ┃ ┣ 📂 com.game.controller  # Xử lý: Bàn phím, Va chạm, Kết nối Database...
+ ┃ ┣ 📂 model       # Các thực thể: Máy bay, Đạn, Kẻ địch, Boss...
+ ┃ ┣ 📂 view        # Giao diện: Menu, GamePanel, Hiển thị điểm số...
+ ┃ ┣ 📂 controller  # Xử lý: Bàn phím, Va chạm, Kết nối Database...
  ┃ ┗ 📜 Main.java            # File khởi chạy ứng dụng
  ┣ 📂 mysql-connector-j-8.0.33.jar                   # Thư viện .jar kết nối MySQL
  ┗ 📜 database.sql           # Script tạo bảng dữ liệu 'chicken_game'
