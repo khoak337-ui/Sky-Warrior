@@ -24,7 +24,7 @@ Dự án tập trung vào việc xử lý đồ họa mượt mà bằng **Graph
 
 - [x] **Cơ chế chiến đấu:** Hệ thống bắn đạn, nâng cấp sức mạnh đạn khi ăn vật phẩm.
 - [x] **Kẻ địch đa dạng:** Máy bay địch tự động sinh ra với nhiều kiểu di chuyển khác nhau.
-- [x] **Hệ thống Boss:** Xuất hiện sau khi đạt mốc điểm nhất định với thanh máu (HP Bar) riêng.
+  
 - [x] **Lưu trữ kỷ lục (JDBC):** Tự động lưu điểm cao nhất vào MySQL, không bị mất dữ liệu khi tắt game.
 - [x] **Kiến trúc chuẩn MVC:** Tách biệt hoàn toàn phần Logic vật lý (Model) khỏi Giao diện (View).
 - [x] **Xử lý Đa luồng (Multithreading):** Game Loop chạy ổn định ở 60 FPS, không gây lag máy.
