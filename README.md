@@ -39,7 +39,25 @@ Dự án tập trung vào việc xử lý đồ họa mượt mà bằng **Graph
 * **Thư viện:** `mysql-connector-j-8.0.33.jar`.
 * **Quản lý mã nguồn:** Git & GitHub.
 
----
+## 🖼️ Ảnh Demo Dự Án
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/00893d1e-2b41-491e-a432-8b63f847c6d7">
+    <img src="https://github.com/user-attachments/assets/00893d1e-2b41-491e-a432-8b63f847c6d7" width="800" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/974cf5a1-9fac-4a2d-9519-c1d1dae813ee">
+    <img src="https://github.com/user-attachments/assets/974cf5a1-9fac-4a2d-9519-c1d1dae813ee" width="800" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/bdca9ba7-8128-4446-955c-256352a17d34">
+    <img src="https://github.com/user-attachments/assets/bdca9ba7-8128-4446-955c-256352a17d34" width="800" />
+  </a>
+</p>
 
 ## 📂 Cấu trúc thư mục (Project Structure)
 
@@ -54,25 +72,8 @@ Mã nguồn được tổ chức chặt chẽ theo mô hình **MVC**:
  ┃ ┗ 📜 Main.java            # File khởi chạy ứng dụng
  ┣ 📂 mysql-connector-j-8.0.33.jar                   # Thư viện .jar kết nối MySQL
  ┗ 📜 database.sql           # Script tạo bảng dữ liệu 'chicken_game'
-## 🖼️ Ảnh Demo Dự Án
 
-<p align="center">
-  <a href="[https://github.com/user-attachments/assets/00893d1e-2b41-491e-a432-8b63f847c6d7](https://github.com/user-attachments/assets/00893d1e-2b41-491e-a432-8b63f847c6d7)">
-    <img src="[https://github.com/user-attachments/assets/00893d1e-2b41-491e-a432-8b63f847c6d7](https://github.com/user-attachments/assets/00893d1e-2b41-491e-a432-8b63f847c6d7)" width="800" alt="Ảnh demo 1" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="[https://github.com/user-attachments/assets/974cf5a1-9fac-4a2d-9519-c1d1dae813ee](https://github.com/user-attachments/assets/974cf5a1-9fac-4a2d-9519-c1d1dae813ee)">
-    <img src="[https://github.com/user-attachments/assets/974cf5a1-9fac-4a2d-9519-c1d1dae813ee](https://github.com/user-attachments/assets/974cf5a1-9fac-4a2d-9519-c1d1dae813ee)" width="800" alt="Ảnh demo 2" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="[https://github.com/user-attachments/assets/bdca9ba7-8128-4446-955c-256352a17d34](https://github.com/user-attachments/assets/bdca9ba7-8128-4446-955c-256352a17d34)">
-    <img src="[https://github.com/user-attachments/assets/bdca9ba7-8128-4446-955c-256352a17d34](https://github.com/user-attachments/assets/bdca9ba7-8128-4446-955c-256352a17d34)" width="800" alt="Ảnh demo 3" />
-  </a>
-</p>
 
 
 ##🚀 Hướng dẫn cài đặt và chạy (Installation)
