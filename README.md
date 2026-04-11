@@ -54,6 +54,11 @@ Mã nguồn được tổ chức chặt chẽ theo mô hình **MVC**:
  ┃ ┗ 📜 Main.java            # File khởi chạy ứng dụng
  ┣ 📂 mysql-connector-j-8.0.33.jar                   # Thư viện .jar kết nối MySQL
  ┗ 📜 database.sql           # Script tạo bảng dữ liệu 'chicken_game'
+Ảnh demo <img width="990" height="775" alt="Ảnh chụp màn hình 2026-03-31 051757" src="https://github.com/user-attachments/assets/00893d1e-2b41-491e-a432-8b63f847c6d7" />
+<img width="979" height="734" alt="Ảnh chụp màn hình 2026-03-31 051714" src="https://github.com/user-attachments/assets/974cf5a1-9fac-4a2d-9519-c1d1dae813ee" />
+<img width="972" height="753" alt="Ảnh chụp màn hình 2026-03-31 024152" src="https://github.com/user-attachments/assets/bdca9ba7-8128-4446-955c-256352a17d34" />
+
+
 ##🚀 Hướng dẫn cài đặt và chạy (Installation)
 1. Yêu cầu hệ thống (Prerequisites)
 .Java Development Kit (JDK): Phiên bản JDK 17 trở lên.
